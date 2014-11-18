@@ -4,31 +4,34 @@
 #masthead {
 	padding: $gutter;
 	z-index: 5;
-	@include transform(translate(0,0));
-	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
+	@include transform(translate(0, 0));
+	@include transition(500ms cubic-bezier(0.645, 0.045, 0.355, 1));
 	&.slide {
-		@include transform(translate(-1600px,0));
+		@include transform(translate(-1600px, 0));
 	}
 	.inner-wrap {
 		@include outer-container;
 	}
 }
+
 .site-title {
 	@include row;
 	@include media($large) {
 		@include span-columns(4);
 	}
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+
+	padding: 0.25 * $masthead-height 0;
+	// fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
 	font-family: $alt-font;
 	font-weight: 700;
-	@include font-size(20,no);
-	line-height: .5 * $masthead-height; // half the height to center vertically
+	@include font-size(20, no);
+	line-height: 0.5 * $masthead-height;
+	// half the height to center vertically
 	text-transform: uppercase;
 }
-
 
 // NAVIGATIONS
 // --------------------------------------------------
@@ -38,7 +41,8 @@
 		float: left;
 		&:last-child a {
 			@include media($medium) {
-				margin-right: 0; // remove spacing from last menu link
+				margin-right: 0;
+				// remove spacing from last menu link
 			}
 		}
 		a {
@@ -46,7 +50,7 @@
 			position: relative;
 			display: block;
 			margin-right: $gutter;
-			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
+			padding: 0.25 * $masthead-height 0 0.25 * $masthead-height;
 			height: $masthead-height;
 			font-family: $alt-font;
 			&:before,
@@ -81,6 +85,7 @@
 	@include media($medium) {
 		@include span-columns(12);
 	}
+
 	@include media($large) {
 		@include span-columns(7);
 		ul {
@@ -88,6 +93,7 @@
 			right: 0;
 		}
 	}
+
 	.home,
 	.sub-menu-item {
 		display: none;
@@ -95,37 +101,38 @@
 	li {
 		a {
 			font-weight: 700;
-			@include font-size(16,no);
-			line-height: .5 * $masthead-height; // half the height to center vertically
+			@include font-size(16, no);
+			line-height: 0.5 * $masthead-height;
+			// half the height to center vertically
 			color: $black;
 			text-transform: uppercase;
 		}
 	}
 }
+
 .bottom-menu {
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color: lighten($black,60);
+		color: lighten($black, 60);
 	}
 }
-
 
 // PAGE WRAPPER
 // --------------------------------------------------
 
 #page-wrapper {
-	padding: 0 $gutter; // add white space for smaller screens
+	padding: 0 $gutter;
+	// add white space for smaller screens
 	@include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
-	@include transform(translate(0,0));
-	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
+	@include transform(translate(0, 0));
+	@include transition(500ms cubic-bezier(0.645, 0.045, 0.355, 1));
 	&.slide {
-		@include transform(translate(-60rem,0));
+		@include transform(translate(-60rem, 0));
 	}
 }
-
 
 // BROWSER UPGRADE
 // --------------------------------------------------
@@ -136,7 +143,6 @@
 		text-decoration: none;
 	}
 }
-
 
 // MAIN
 // --------------------------------------------------
@@ -151,6 +157,7 @@
 		@include media($medium) {
 			@include row($direction: RTL);
 		}
+
 		@include media($large) {
 			@include span-columns(2 of 9);
 		}
@@ -158,53 +165,53 @@
 	.page-title {
 		@include fill-parent;
 	}
-	@at-root {
-		.page-content {
-			@include media($medium) {
-				@include row($direction: RTL);
-				//@include span-columns(7 of 9);
+	@at-root 	.page-content {
+		@include media($medium) {
+			@include row($direction: RTL);
+			//@include span-columns(7 of 9);
+		}
+
+		@include media($large) {
+			@include span-columns(7 of 9);
+		}
+
+		// larger font for intro paragraph
+		> p {
+			&:first-child {
+				@include font-size(20, yes, 30);
 			}
-			@include media($large) {
-				@include span-columns(7 of 9);
+		}
+		// cleaner underlines for links
+		a {
+			text-decoration: none;
+		}
+		p > a,
+		li > a {
+			border-bottom: 1px dotted lighten($link-color, 50);
+			&:hover {
+				border-bottom-style: solid;
 			}
-			// larger font for intro paragraph
-			> p {
-				&:first-child {
-					@include font-size(20,yes,30);
-				}
-			}
-			// cleaner underlines for links
-			a { text-decoration: none; }
-			p > a,
-			li > a {
-				border-bottom: 1px dotted lighten($link-color, 50);
-				&:hover {
-					border-bottom-style: solid;
-				}
-			}
-			p > a.reversefootnote {
-				border-bottom-width: 0;
-			}
-			.page-footer,
-			.pagination {
-				@include fill-parent;
-			}
-			.page-meta {
-				p{
-					@include font-size(14,no);
-					font-family: $alt-font;
-					color: lighten($black,60);
-				}
+		}
+		p > a.reversefootnote {
+			border-bottom-width: 0;
+		}
+		.page-footer,
+		.pagination {
+			@include fill-parent;
+		}
+		.page-meta {
+			p {
+				@include font-size(14, no);
+				font-family: $alt-font;
+				color: lighten($black, 60);
 			}
 		}
 	}
-	@at-root {
-		.archive-wrap {
+	@at-root 	.archive-wrap {
+		@include fill-parent;
+		.page-content {
+			@include reset-all;
 			@include fill-parent;
-			.page-content {
-				@include reset-all;
-				@include fill-parent;
-			}
 		}
 	}
 	.ads {
@@ -214,12 +221,13 @@
 		margin-left: -$gutter;
 		margin-right: -$gutter;
 		padding: 10px 0 20px;
-		background: lighten($border-color,5);
+		background: lighten($border-color, 5);
 		@include media($medium) {
 			@include span-columns(3);
 			margin-left: 0;
 			margin-right: 0;
 		}
+
 		&:after {
 			content: 'Advertisement';
 			position: absolute;
@@ -227,7 +235,7 @@
 			width: 100%;
 			text-align: center;
 			display: block;
-			@include font-size(9,no);
+			@include font-size(9, no);
 			font-family: $alt-font;
 		}
 		ins {
@@ -235,9 +243,10 @@
 		}
 	}
 }
+
 // page lead
 .page-lead {
-	background-position: center top;
+	background-position: bottom center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
@@ -246,19 +255,23 @@
 		background-size: cover;
 	}
 }
+
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
 	}
+
 	@include media($large) {
 		padding: 3em;
 	}
+
 	h1 {
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
 		}
+
 		@include media($large) {
 			@include font-size(72);
 		}
@@ -268,11 +281,13 @@
 		@include media($medium) {
 			@include font-size(24);
 		}
+
 		@include media($large) {
 			@include font-size(32);
 		}
 	}
 }
+
 // page header
 .page-feature {
 	@include fill-parent;
@@ -281,8 +296,9 @@
 		width: 100%;
 	}
 }
+
 // make image flush with edges on small screens
-.page-image {	
+.page-image {
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
@@ -293,10 +309,10 @@
 		right: 0;
 		margin: 0 auto;
 		padding: 10px 15px;
-		background-color: rgba($black,.5);
+		background-color: rgba($black, 0.5);
 		color: $white;
 		font-family: $alt-font;
-		@include font-size(12,no);
+		@include font-size(12, no);
 		text-align: right;
 		z-index: 10;
 		a {
@@ -305,11 +321,12 @@
 		}
 	}
 }
+
 // breadcrumbs
-.breadcrumbs { 
+.breadcrumbs {
 	@include row;
 	margin-top: $gutter;
-	@include font-size(10,no);
+	@include font-size(10, no);
 	a {
 		display: inline-block;
 		font-family: $alt-font;
@@ -318,6 +335,7 @@
 		text-transform: uppercase;
 	}
 }
+
 // table of contents
 .toc {
 	min-height: 1px;
@@ -327,22 +345,29 @@
 		border-radius: $border-radius;
 	}
 	li {
-		@include media($micro) { @include font-size(16,no,18); }
-    @include media($small) { @include font-size(16,no,18); }
-		@include font-size(12,no,16);
+		@include media($micro) {
+			@include font-size(16, no, 18);
+		}
+
+		@include media($small) {
+			@include font-size(16, no, 18);
+		}
+
+		@include font-size(12, no, 16);
 		border-bottom: 1px solid $border-color;
 	}
 	font-family: $alt-font;
 	a {
 		display: block;
-		padding: (.25 * $gutter) (.5 * $gutter);
+		padding: 0.25 * $gutter 0.5 * $gutter;
 		border-left: 2px solid transparent;
 		&:hover,
 		&:focus {
-			background: lighten($border-color,5);
+			background: lighten($border-color, 5);
 		}
 	}
 }
+
 // tiles
 .tile {
 	@include outer-container;
@@ -350,20 +375,23 @@
 	@include media($micro) {
 		@include fill-parent;
 	}
+
 	@include media($small) {
 		@include span-columns(6);
 		@include omega(2n);
 	}
+
 	@include media($medium) {
 		@include span-columns(3);
 		@include omega(4n);
 	}
+
 	.entry-date {
-		@include font-size(16,no);
-		color: lighten($text-color,25);
+		@include font-size(16, no);
+		color: lighten($text-color, 25);
 	}
 	.post-title {
-		@include font-size(18,no);
+		@include font-size(18, no);
 	}
 	.post-excerpt {
 		@include font-size(16);
@@ -378,32 +406,35 @@
 			height: 100%;
 			top: 0;
 			left: 0;
-			background: rgba($base-color,0);
+			background: rgba($base-color, 0);
 			pointer-events: none;
 			@include transition(background 0.3s);
 		}
 		&:hover {
 			&:after {
-				background: rgba($base-color,0.2);
+				background: rgba($base-color, 0.2);
 			}
 		}
 	}
 }
+
 // footnotes
 .footnotes {
 	font-family: $alt-font;
 	p, li {
-		@include font-size(12,no);
+		@include font-size(12, no);
 	}
 	&:before {
 		content: 'Footnotes:';
 		font-weight: 700;
 	}
 }
+
 // page footer
 .page-footer {
 	position: relative;
 }
+
 .author-image {
 	position: absolute;
 	left: 0;
@@ -413,19 +444,23 @@
 		border-radius: $border-radius;
 	}
 }
+
 .author-content {
 	word-wrap: break-word;
-	padding-left: 100px; //avatar width + 20px padding
-	min-height: 80px; //mirrors avatar height
+	padding-left: 100px;
+	//avatar width + 20px padding
+	min-height: 80px;
+	//mirrors avatar height
 }
+
 .author-name {
-	@include font-size(20,no);
+	@include font-size(20, no);
 }
+
 .author-bio {
 	margin-top: 0;
 	@include font-size(16);
 }
-
 
 // SCROLL ARROW CUE
 // --------------------------------------------------
@@ -436,6 +471,7 @@
 	@include media($short) {
 		bottom: 0;
 	}
+
 	left: 50%;
 	width: 2 * $button-size;
 	height: 2 * $button-size;
@@ -450,21 +486,20 @@
 	letter-spacing: 2px;
 }
 
-
 // FOOTER
 // --------------------------------------------------
 
 #site-footer {
 	@include outer-container;
-	margin-top: (3 * (0px + $doc-line-height));
-	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
+	margin-top: 3 * (0px + $doc-line-height);
+	margin-top: 3 * (0rem + $doc-line-height / $doc-font-size);
 	padding-bottom: $gutter;
 	font-family: $alt-font;
 	.copyright {
 		@include font-size(12);
-		color: lighten($black,60);
+		color: lighten($black, 60);
 		a {
-			color: lighten($black,60);
+			color: lighten($black, 60);
 			text-decoration: none;
 		}
 	}
