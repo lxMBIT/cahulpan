@@ -14,17 +14,20 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Fabrica a fost dată in funcție</h2>
+  <p class="post-excerpt">pe 29 decembrie in anul 1947 și pe o perioadă lungă de 
+timp ramîne a fi unul din cei mai mari producători de panificație din Republica Moldova,
+păstrind o reputație de înterprindere cu o activitate stabilă și durabilă.  </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Echipament</h2>
+  <p class="post-excerpt">e bine cunoscută in Moldova și peste hotare. La momentul dat înterprinderea produce 35 de tipuri de produse de patiserie și mai mult de 40 de tipuri
+de produse de cofetărie</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
+  <h2 class="post-title">Producția</h2>
   <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 </div><!-- /.tile -->
 
