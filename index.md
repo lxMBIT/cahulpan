@@ -1,15 +1,16 @@
 ---
 layout: home
 permalink: /
-image:
+image: 
   feature: wheat.jpg
+published: true
 ---
 
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">"S.A Combinatul de panificație Cahul"</h2>
+  <p class="post-excerpt">este o înterprindere unică in ramura dată amplasată în regiunea de sud a Moldovei, un producător mare de produse de panificație,franzelărie,covrigărie,pesmeți,patiserie,paste făinoase, etc.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
