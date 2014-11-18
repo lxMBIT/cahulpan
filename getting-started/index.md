@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: product
 title: "Getting Started with Skinny Bones"
 date: 2014-06-25T13:57:25-04:00
 modified:
@@ -62,7 +62,7 @@ skinny-bones-jekyll-master
 ├── _includes                           # reusable blocks for _layouts
 ├── _layouts
 |    ├── archive.html                   # archive listing of a group of posts or collection
-|    ├── article.html                   # articles, blog posts, text heavy material layout
+|    ├── product.html                   # products, blog posts, text heavy material layout
 |    ├── default.html                   # base
 |    ├── home.html                      # home page
 |    └── media.html                     # portfolio, work, media layout
@@ -204,7 +204,7 @@ The only YAML Front Matter required for posts and pages are `title` and `layout`
 
 Add `categories: ` and assign a single category name for added organization. The theme makes the assumption that posts will only be assigned to one category at a time. You can certainly assign multiple categories but unexpected things may happen with the permalink structure.
 
-I like to group posts by general categories like `articles`, `portfolio`, `whatever`, and using tags to more specific classifications.
+I like to group posts by general categories like `products`, `portfolio`, `whatever`, and using tags to more specific classifications.
 
 #### Modified Date
 
@@ -339,12 +339,12 @@ Default command
 $ octopress new post "Post Title"
 {% endhighlight %}
 
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into sub-folders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate `categories:` with the same value.
+Default works great if you want all your posts in one directory, but if you're like me and want to group them into sub-folders like `/products`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate `categories:` with the same value.
 
 {% highlight bash %}
 {% endhighlight %}
 
-The default `_layout` used for new posts is `articles`. If you want to use the media layout or something else specify it like so
+The default `_layout` used for new posts is `products`. If you want to use the media layout or something else specify it like so
 
 {% highlight bash %}
 $ octopress new post "Portfolio Post Title" --dir portfolio --template media

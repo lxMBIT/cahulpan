@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: product
 title: "Sample Post Style Guide"
-categories: articles
+categories: products
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
 toc: true

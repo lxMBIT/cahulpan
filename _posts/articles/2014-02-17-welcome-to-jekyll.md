@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: product
 title:  "Welcome to Jekyll!"
-categories: articles
+categories: products
 modified: 2014-02-19
 share: false
 ads: true
