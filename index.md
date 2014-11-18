@@ -22,8 +22,7 @@ păstrind o reputație de înterprindere cu o activitate stabilă și durabilă.
 
 <div class="tile">
   <h2 class="post-title">Echipament</h2>
-  <p class="post-excerpt">e bine cunoscută in Moldova și peste hotare. La momentul dat înterprinderea produce 35 de tipuri de produse de patiserie și mai mult de 40 de tipuri
-de produse de cofetărie.</p>
+  <p class="post-excerpt">de la cei mai buni producatori europeni și materii prime ecologice folosite permit înterprinderii să producă produs de cea mai înaltă calitate atît de brutarie, cît și de patiserie, după cum reiese din certificatul de management  al calitații ISO 90001 .</p>
 </div><!-- /.tile -->
 
 <div class="tile">
