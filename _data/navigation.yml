@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: Sample Articles
+- title: Продукция
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Описание продукции."
   image: 400x250.gif
 
 - title: Media
@@ -10,7 +10,7 @@
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
 
-- title: Contacts
+- title: Контакты
   url: /about/
   excerpt: "All contacts."
   image: 400x250.gif
