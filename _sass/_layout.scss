@@ -267,7 +267,7 @@
 	}
 
 	h1 {
-		@include font-size(75);
+		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
 		}
@@ -509,4 +509,8 @@
 
 .logo {
 	width: 200px;
+}
+
+h1 {
+	font-size: 8rem;
 }
