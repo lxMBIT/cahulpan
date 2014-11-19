@@ -268,9 +268,9 @@
 	}
 
 	h1 {
-		@include font-size(90, yes, 1);
+		@include font-size(90);
 		@include media($medium) {
-			@include font-size(150, yes, 1);
+			@include font-size(150);
 		}
 
 		@include media($large) {
@@ -285,7 +285,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(32, yes, 2);
+			@include font-size(32, yes, 160);
 		}
 	}
 }
