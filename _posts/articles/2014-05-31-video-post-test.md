@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Video Post Test"
+title: "Другой продукт"
 date: 2014-05-31T23:14:02-04:00
 modified:
 categories: products
