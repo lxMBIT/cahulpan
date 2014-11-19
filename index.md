@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image: 
-  feature: wheat.jpg
+  feature: wheat1.jpg
 published: true
 ---
 
