@@ -274,7 +274,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(200);
+			@include font-size(200, yes, 1);
 		}
 	}
 	h2 {
@@ -285,7 +285,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(32);
+			@include font-size(32, yes, 150);
 		}
 	}
 }
@@ -513,5 +513,4 @@
 	position: relative;
 	padding-left: 30%;
 	padding-right: 30%;
-	padding-bottom: -2em;
 }
