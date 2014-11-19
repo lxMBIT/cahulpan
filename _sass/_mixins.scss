@@ -57,7 +57,6 @@
 	}
 	@else if $line-height == 1 {
 		line-height: 0;
-		margin-bottom: 20px;
 	}
 	@else {
 		line-height: ceil($size / $doc-line-height) * $doc-line-height / $size;
