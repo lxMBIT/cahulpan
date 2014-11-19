@@ -10,25 +10,22 @@ published: true
 
 <div class="tile">
   <h2 class="post-title">"S.A Combinatul de panificație Cahul"</h2>
-  <p class="post-excerpt">este o înterprindere unică in ramura dată amplasată în regiunea de sud a Moldovei, un producător mare de produse de panificație, franzelărie, covrigărie, pesmeți, patiserie, paste făinoase, etc.</p>
+  <p class="post-excerpt">Уникальное предприятие на юге Молдовы по производству хлеба, хлебобулочных, сдобных, бараночных, сухарных, мучных, кондитерских и макаронных изделий. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Fabrica a fost dată in funcție</h2>
-  <p class="post-excerpt">pe 29 decembrie in anul 1947 și pe o perioadă lungă de 
-timp ramîne a fi unul din cei mai mari producători de panificație din Republica Moldova,
-păstrind o reputație de înterprindere cu o activitate stabilă și durabilă.  </p>
+  <h2 class="post-title">Стабильнность</h2>
+  <p class="post-excerpt">Хлебозавод работат с 29 декабря 1947 года и на протяжении длительного времени остается одним из крупнейших в хлебопекарной отрасли Республики Молдавия, имея репутацию устойчивого и стабильно функционирующего предприятия.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Echipament</h2>
-  <p class="post-excerpt">de la cei mai buni producatori europeni și materii prime ecologice folosite permit înterprinderii să producă produs de cea mai înaltă calitate atît de brutarie, cît și de patiserie, după cum reiese din certificatul de management  al calitații ISO 90001 .</p>
+  <h2 class="post-title">Любовь через качество</h2>
+  <p class="post-excerpt">Оборудование от ведущих европейских производителей и используемое экологически чистое сырье позволяет предприятию выпускать продукцию высокого качества, что подтверждается сертификатом системы менеджмента качества ГОСТР ИСО 90001-2008.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Producția</h2>
-  <p class="post-excerpt">e bine cunoscută in Moldova și peste hotare. La momentul dat înterprinderea produce 35 de tipuri de produse de patiserie și mai mult de 40 de tipuri
-de produse de cofetărie.</p>
+  <h2 class="post-title">Наша продукция</h2>
+  <p class="post-excerpt">Хорошо известна как в Молдове, так и за ее пределами. В настоящее время предприятие выпускает 35 наименований хлебобулочных и более 40 наименований кондитерских изделий.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
