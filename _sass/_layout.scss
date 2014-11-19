@@ -263,11 +263,11 @@
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
-		padding: 2em;
+		padding: 1em;
 	}
 
 	@include media($large) {
-		padding: 3em;
+		padding: 1em;
 	}
 
 	h1 {
