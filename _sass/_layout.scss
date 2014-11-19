@@ -1,10 +1,6 @@
 // MASTHEAD
 // --------------------------------------------------
 
-.cahulpan {
-	font-size: 8rem;
-}
-
 #masthead {
 	padding: $gutter;
 	z-index: 5;
@@ -263,11 +259,11 @@
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
-		padding: 1em;
+		padding: 2em;
 	}
 
 	@include media($large) {
-		padding: 1em;
+		padding: 3em;
 	}
 
 	h1 {
