@@ -21,11 +21,11 @@ gems:
 
 # Site owner
 owner:
-  name: MBIT
+  name: MBIt
   web: http://mbit.ws
   email: lxmbit@gmail.com
   twitter: 
-  bio: "Time traveling designer."
+  bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: 

@@ -1,13 +1,13 @@
 ---
 layout: product
-title: "Образец продукта"
-date: 
+title: "Author Override"
+date: 2014-06-23T16:19:16-04:00
 author: 
 modified:
 categories: products
-excerpt: "Краткое описание позиции"
+excerpt: "A post to test author overrides using a data file."
 tags: []
-ads: false
+ads: true
 image:
   feature:
   teaser:

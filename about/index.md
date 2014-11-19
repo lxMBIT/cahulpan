@@ -1,20 +1,8 @@
 ---
 layout: product
 title: "Контактная информация"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 date: 2014-06-02T09:44:20-04:00
-=======
-date: 
->>>>>>> parent of 2396fca... 1
-=======
-date: 
->>>>>>> parent of 2396fca... 1
-=======
-date: 
->>>>>>> parent of 2396fca... 1
-modified: 
+modified: 2014-08-27T14:56:44-04:00
 excerpt: "А.О “Комбинатул де панификацие КАХУЛ”"
 image:
   feature:
@@ -24,12 +12,6 @@ share: false
 ads: false
 ---
 
-Адресс
-R. Moldova, 3900, m.Cahul, srt Păcii,
-Телефоны
-(373 39) 20872
-26837 
-22178
-Факс
-(373 39) 27418
-e-mail: cahulpan@mdl.net
+This is a work in progress.
+
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
