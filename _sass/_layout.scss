@@ -267,7 +267,7 @@
 	}
 
 	h1 {
-		@include font-size(90, yes, 1);
+		@include font-size(45, yes, 1);
 		@include media($medium) {
 			@include font-size(150, yes, 1);
 		}
