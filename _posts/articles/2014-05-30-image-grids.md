@@ -6,7 +6,7 @@ modified:
 categories: products
 excerpt: "Demoing the various thumbnail grid styles."
 tags: []
-ads: true
+ads: false
 image:
   feature:
   teaser:
