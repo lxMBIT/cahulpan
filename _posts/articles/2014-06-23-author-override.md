@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Продукт"
+title: "Sample"
 date: 2014-06-23T16:19:16-04:00
 author: 
 modified:
