@@ -59,7 +59,7 @@
 		line-height: 0;
 	}
 	@else {
-		line-height: ceil($size / $doc-line-height) * $doc-line-height / $size;
+		line-height: 6;
 	}
 	// margin-bottom functions
 	//////////////////////////
