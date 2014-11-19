@@ -58,6 +58,15 @@
 	@else if $line-height == 1 {
 		line-height: 0;
 	}
+	@else if $line-height == 2 {
+		line-height: 3;
+	}
+	@else if $line-height == 3 {
+		line-height: 5;
+	}
+	@else if $line-height == 4 {
+		line-height: 6;
+	}
 	@else {
 		line-height: ceil($size / $doc-line-height) * $doc-line-height / $size;
 	}
@@ -65,7 +74,7 @@
 	//////////////////////////
 	// if no is bottom margin is required
 	@if $margin == no {
-		margin-bottom: 0;
+		margin-bottom: 30;
 	}
 	@else if $margin != yes and $margin != no {
 		margin-bottom: 0px + $margin;

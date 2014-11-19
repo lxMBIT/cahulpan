@@ -278,13 +278,13 @@
 		}
 	}
 	h2 {
-		@include font-size(20 yes, 160);
+		@include font-size(20 yes, 2);
 		@include media($medium) {
-			@include font-size(24 yes, 160);
+			@include font-size(24 yes, 3);
 		}
 
 		@include media($large) {
-			@include font-size(32, yes, 160);
+			@include font-size(32, yes, 4);
 		}
 	}
 }
