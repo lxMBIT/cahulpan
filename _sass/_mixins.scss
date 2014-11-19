@@ -65,7 +65,7 @@
 	//////////////////////////
 	// if no is bottom margin is required
 	@if $margin == no {
-		margin-bottom: 0;
+		margin-bottom: 30;
 	}
 	@else if $margin != yes and $margin != no {
 		margin-bottom: 0px + $margin;
