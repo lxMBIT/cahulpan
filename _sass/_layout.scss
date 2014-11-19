@@ -274,7 +274,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(200, no, 1);
+			@include font-size(200);
 		}
 	}
 	h2 {
@@ -513,4 +513,5 @@
 	position: relative;
 	padding-left: 30%;
 	padding-right: 30%;
+	padding-bottom: -2em;
 }
