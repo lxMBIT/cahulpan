@@ -273,7 +273,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(200, yes, 10);
+			@include font-size(200, yes, 1);
 		}
 	}
 	h2 {
