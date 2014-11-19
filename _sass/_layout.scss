@@ -178,7 +178,7 @@
 		// larger font for intro paragraph
 		> p {
 			&:first-child {
-				@include font-size(20, 20 yes, 1);
+				@include font-size(20, yes, 1);
 			}
 		}
 		// cleaner underlines for links
