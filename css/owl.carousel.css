@@ -42,7 +42,7 @@
 }
 
 .owl-carousel .owl-item {
-	/*float: left;*/
+	float: left;
 }
 
 .owl-controls .owl-page,
