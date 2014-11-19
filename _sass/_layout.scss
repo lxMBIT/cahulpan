@@ -257,7 +257,6 @@
 }
 
 .page-lead-content {
-	margin: 0;
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
@@ -268,7 +267,7 @@
 	}
 
 	h1 {
-		@include font-size(90%);
+		@include font-size(90);
 		@include media($medium) {
 			@include font-size(150);
 		}
@@ -509,5 +508,11 @@
 //logo
 
 .logo {
-	width: 200px;
-}
+	@include width: 90%;
+	@include media($medium) {
+		@include width: 50%;
+	}
+	@include media($large) {
+		@include width: 50%;
+	}
+	}
