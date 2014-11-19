@@ -278,9 +278,9 @@
 		}
 	}
 	h2 {
-		@include font-size(20 yes, 2);
+		@include font-size(20 no, 2);
 		@include media($medium) {
-			@include font-size(24 yes, 3);
+			@include font-size(24 no, 3);
 		}
 
 		@include media($large) {
