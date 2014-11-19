@@ -278,10 +278,9 @@
 		}
 	}
 	h2 {
-		margin-top: 30;
-		@include font-size(20);
+		@include font-size(20 yes, 160);
 		@include media($medium) {
-			@include font-size(24);
+			@include font-size(24 yes, 160);
 		}
 
 		@include media($large) {
