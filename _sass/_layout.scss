@@ -271,13 +271,13 @@
 	}
 
 	h1 {
-		@include font-size(48);
+		@include font-size(75);
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(150);
 		}
 
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(200);
 		}
 	}
 	h2 {
