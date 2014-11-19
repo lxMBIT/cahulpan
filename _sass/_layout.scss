@@ -277,13 +277,13 @@
 		}
 	}
 	h2 {
-		@include font-size(20, no, 60);
+		@include font-size(20, yes, 60);
 		@include media($medium) {
-			@include font-size(24, no, 150);
+			@include font-size(24, yes, 150);
 		}
 
 		@include media($large) {
-			@include font-size(32, no, 200);
+			@include font-size(32, yes, 200);
 		}
 	}
 }
@@ -509,6 +509,7 @@
 
 .logo {
 	position: relative;
+	padding-top: 45px;
 	padding-left: 30%;
 	padding-right: 30%;
 }
