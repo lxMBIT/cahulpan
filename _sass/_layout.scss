@@ -1,6 +1,10 @@
 // MASTHEAD
 // --------------------------------------------------
 
+.cahulpan {
+	font-size: 8rem;
+}
+
 #masthead {
 	padding: $gutter;
 	z-index: 5;
@@ -509,8 +513,4 @@
 
 .logo {
 	width: 200px;
-}
-
-.cahulpan {
-	font-size: 8rem;
 }
