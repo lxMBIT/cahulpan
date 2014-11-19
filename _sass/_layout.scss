@@ -283,7 +283,7 @@
 		}
 
 		@include media($large) {
-			@include font-size(32, yes, 200);
+			@include font-size(48, yes, 200);
 		}
 	}
 }
