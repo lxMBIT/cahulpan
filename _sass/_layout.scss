@@ -279,7 +279,7 @@
 	h2 {
 		@include font-size(20, yes, 60);
 		@include media($medium) {
-			@include font-size(24, yes, 150);
+			@include font-size(32, yes, 150);
 		}
 
 		@include media($large) {
