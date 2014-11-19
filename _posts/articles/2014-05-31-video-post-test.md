@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Другой продукт"
-date: 2014-05-31T23:14:02-04:00
+date: 
 modified:
 categories: products
 excerpt: "A post with a YouTube video."
