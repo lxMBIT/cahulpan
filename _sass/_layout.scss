@@ -258,7 +258,6 @@
 
 .page-lead-content {
 	padding: 1em;
-	margin-bottom: 20px;
 	@include media($medium) {
 		padding: 1em;
 	}
@@ -278,7 +277,7 @@
 		}
 	}
 	h2 {
-		@include font-size(20);
+		@include font-size(20, yes, 60);
 		@include media($medium) {
 			@include font-size(24);
 		}
