@@ -2,7 +2,11 @@
 layout: product
 title: "Контактная информация"
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2014-06-02T09:44:20-04:00
+=======
+date: 
+>>>>>>> parent of 2396fca... 1
 =======
 date: 
 >>>>>>> parent of 2396fca... 1
