@@ -1,12 +1,12 @@
 ---
 layout: product
-title: "Video Post Test"
-date: 2014-05-31T23:14:02-04:00
+title: "Еще продукт"
+date: 
 modified:
 categories: products
 excerpt: "A post with a YouTube video."
 tags: [video]
-ads: true
+ads: false
 image:
   feature:
   teaser:
