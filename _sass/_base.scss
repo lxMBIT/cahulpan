@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-	@include font-size(32);
+	@include font-size(32, yes, 3);
 }
 
 h3 {
