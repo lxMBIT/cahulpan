@@ -257,10 +257,10 @@
 }
 
 .page-lead-content {
-	padding: 0.5em;
+	padding: 1em;
 	margin-bottom: 20px;
 	@include media($medium) {
-		padding: 0.5em;
+		padding: 1em;
 	}
 
 	@include media($large) {
