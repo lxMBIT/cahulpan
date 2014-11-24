@@ -12,6 +12,18 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Адрес
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+ R.Moldova,or.Cahul, str.Pacii-20.
+
+Телефоны
+
+    *tel.0299-41178
+    *tel.0299-41418
+    *mob.079705382
+    *fax.0299-41837
+
+Электронная почта
+
+<a href="mailto:smarket@cahulpan.com">smarket@cahulpan.com</a>
+<a href="cahulpan@mail.ru">cahulpan@mail.ru</a>
