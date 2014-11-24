@@ -30,7 +30,7 @@ published: true
 
 </div><!-- /.tiles -->
 
-<h2 class="partner-header">Наши партнеры</h2>
+<h2 class="center-heading">Наши партнеры</h2>
 
 <div class="partners">
 <div class="partner"><a href="#" class="partner-ease"><img class="post-teaser" src="images/nr1.jpg" alt="" align="middle"></a></div><!-- /.partner -->
