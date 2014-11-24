@@ -560,6 +560,17 @@
 .logo {
 	position: relative;
 	padding-top: 45px;
-	padding-left: 30%;
-	padding-right: 30%;
+	padding-left: 15%;
+	padding-right: 15%;
+	@include media($medium) {
+		padding-top: 50px;
+		padding-left: 25%;
+		padding-right: 25%;
+	}
+
+	@include media($large) {
+		padding-top: 55px;
+		padding-left: 30%;
+		padding-right: 30%;
+	}
 }
