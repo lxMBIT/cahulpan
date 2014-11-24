@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
   thumb:
-share: true
+share: false
 ads: false
 ---
 
@@ -26,6 +26,6 @@ ads: false
 Факс:<br>
 0299-41837 <br>
 
-Электронная почта
+Электронная почта <br>
 <a href="mailto:smarket@cahulpan.com">smarket@cahulpan.com</a> <br>
 <a href="mailto:cahulpan@mail.ru">cahulpan@mail.ru</a>
