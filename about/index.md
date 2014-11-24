@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
   thumb:
-share: false
+share: true
 ads: false
 ---
 
@@ -22,9 +22,10 @@ ads: false
 <a href="tel:029941178">0-299-41178</a><br>
 <a href="tel:029941178">0-299-41418</a><br>
 <a href="tel:079705382">0-797-05382</a><br>
-fax.:0299-41837 <br>
+
+Факс:<br>
+0299-41837 <br>
 
 Электронная почта
-
 <a href="mailto:smarket@cahulpan.com">smarket@cahulpan.com</a> <br>
 <a href="mailto:cahulpan@mail.ru">cahulpan@mail.ru</a>
