@@ -449,13 +449,13 @@
 			height: 100%;
 			top: 0;
 			left: 0;
-			background: rgba($base-color, 0.2);
+			background: rgba($white, 0.2);
 			pointer-events: none;
 			@include transition(background 0.3s);
 		}
 		&:hover {
 			&:after {
-				background: rgba($base-color, 0);
+				background: rgba($white, 0);
 			}
 		}
 	}
