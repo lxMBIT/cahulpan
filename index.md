@@ -29,3 +29,14 @@ published: true
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+<div class="partners">
+<div class="partner"><img class="post-teaser" src="images/nr1.jpg" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/fourchette.jpg" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/everest.jpg" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/imc.png" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/vega.jpg" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/metro.png" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/gh.jpg" alt=""></div><!-- /.partner -->
+<div class="partner"><img class="post-teaser" src="images/linela.jpg" alt=""></div><!-- /.partner -->
+</div>
