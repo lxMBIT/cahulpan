@@ -14,16 +14,16 @@ ads: false
 
 Адрес
 
- R.Moldova,or.Cahul, str.Pacii-20.
+	 R.Moldova,or.Cahul, str.Pacii-20.
 
 Телефоны
 
-    *tel.0299-41178
-    *tel.0299-41418
-    *mob.079705382
-    *fax.0299-41837
+     tel.0299-41178
+     tel.0299-41418
+     mob.079705382
+     fax.0299-41837
 
 Электронная почта
 
-<a href="mailto:smarket@cahulpan.com">smarket@cahulpan.com</a>
-<a href="cahulpan@mail.ru">cahulpan@mail.ru</a>
+<a href="mailto:smarket@cahulpan.com">smarket@cahulpan.com</a> <br>
+<a href="mailto:cahulpan@mail.ru">cahulpan@mail.ru</a>
