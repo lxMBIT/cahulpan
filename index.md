@@ -29,9 +29,8 @@ published: true
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-<div class="page-title">
-<h2>Наши партнеры</h2>
-</div>
+
+<h2 class="partner-header">Наши партнеры</h2>
 
 <div class="partners">
 <div class="partner"><a href="#" class="partner-ease"><img class="post-teaser" src="images/nr1.jpg" alt="" align="middle"></a></div><!-- /.partner -->
