@@ -1,0 +1,80 @@
+---
+layout: product
+title: "Хлебобулочные изделия"
+date: 2014-05-31T23:14:02-04:00
+modified:
+categories: products
+excerpt: "Описание категории Хлебобулочные изделия"
+tags: []
+ads: false
+image:
+  feature:
+  teaser:
+---
+
+
+Хлеб — пищевой продукт, получаемый путём выпечки, паровой обработки или жарки теста, состоящего, как минимум, из муки и воды. В большинстве случаев добавляется соль, а также используется разрыхлитель, такой как дрожжи. Для приготовления хлеба употребляют пшеничную и ржаную муку, реже — кукурузную, ячменную и другие. Словом хлеб часто называют сельскохозяйственные культуры (пшеницу, рожь, ячмень и другие), а также само зерно этих культур и изготовляемую из него муку (см. Зерновые культуры).[1] В некоторые сорта хлеба также добавляют специи такие как зёрна тмина, орехи, изюм, чеснок, курагу и зёрнышки (семена кунжута, мака). Зёрнышки также служат для украшения.
+
+Хлеб можно есть отдельно, однако нередко его едят со сливочным, арахисовым или подсолнечным маслом, вареньем, маргарином, джемом, желе, мармеладом, мёдом, что по сути является блюдом, носящим название бутерброд. Хлеб используется также как основа для сэндвича. Он может быть только выпеченным или впоследствии подрумянен (например, в тостере) и может подаваться практически без ограничений от комнатной температуры до горячего состояния. В некоторых культурах хлеб одновременно используется и как столовый прибор.
+
+
+## Хлеба
+
+### Изделие первое
+
+<figure>
+	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<figcaption>Подпись к картинке.</figcaption>
+</figure>
+
+
+For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.
+
+Traditionally you would assign a global author for the entire site and those attributes would be used in all post bylines, social networking links in the footer, Twitter Cards, and Google Authorship. These `owner` variables defined in your `config.yml`
+
+Start by creating an `authors.yml` file in the `_data` folder and add your authors using the following format.
+
+### Изделие Второе
+
+<figure>
+	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<figcaption>Подпись к картинке.</figcaption>
+</figure>
+
+
+For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.
+
+Traditionally you would assign a global author for the entire site and those attributes would be used in all post bylines, social networking links in the footer, Twitter Cards, and Google Authorship. These `owner` variables defined in your `config.yml`
+
+Start by creating an `authors.yml` file in the `_data` folder and add your authors using the following format.
+
+## Булки
+
+### Изделие первое
+
+<figure>
+	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<figcaption>Подпись к картинке.</figcaption>
+</figure>
+
+
+For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.
+
+Traditionally you would assign a global author for the entire site and those attributes would be used in all post bylines, social networking links in the footer, Twitter Cards, and Google Authorship. These `owner` variables defined in your `config.yml`
+
+Start by creating an `authors.yml` file in the `_data` folder and add your authors using the following format.
+
+### Изделие Второе
+
+<figure>
+	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<figcaption>Подпись к картинке.</figcaption>
+</figure>
+
+
+For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.
+
+Traditionally you would assign a global author for the entire site and those attributes would be used in all post bylines, social networking links in the footer, Twitter Cards, and Google Authorship. These `owner` variables defined in your `config.yml`
+
+Start by creating an `authors.yml` file in the `_data` folder and add your authors using the following format.
+
