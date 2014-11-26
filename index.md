@@ -37,7 +37,7 @@ published: true
 <h2 class="center-heading">Наши партнеры</h2>
 
 <div class="partners">
-<div class="partner"><a href="#" class="partner-ease"><img class="post-teaser" src="images/nr1.jpg" alt="" align="middle"></a></div><!-- /.partner -->
+<div class="partner"><a href="#" class="partner-ease"><img src="images/nr1.jpg" alt="" align="middle"></a></div><!-- /.partner -->
 <div class="partner"><a href="#" class="partner-ease"><img src="images/fourchette.jpg" alt="" align="middle"></a></div><!-- /.partner -->
 <div class="partner"><a href="#" class="partner-ease"><img src="images/everest.jpg" alt="" align="middle"></a></div><!-- /.partner -->
 <div class="partner"><a href="#" class="partner-ease"><img src="images/imc.jpg" alt="" align="middle"></a></div><!-- /.partner -->
