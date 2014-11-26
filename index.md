@@ -6,6 +6,8 @@ image:
 published: true
 ---
 
+<h3 class="center-heading">Наши партнеры</h3>
+
 <div class="tiles">
 
 <div class="tile">
