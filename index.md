@@ -5,7 +5,7 @@ image:
   feature: wheat1.jpg
 published: true
 ---
-<div>
+<div id="aboutus">
 <h5 class="center-heading"><em>"Хлеб - это не только один из ценнейших продуктов питания, это вечный символ благополучия и достатка, самое великое творение человеческого ума..."</em></h5>
 <hr class="hrquote center-headin">
 </div>
