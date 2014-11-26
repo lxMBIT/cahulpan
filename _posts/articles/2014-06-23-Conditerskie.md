@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Продукт"
+title: "Кондитерские изделия"
 date: 2014-06-23T16:19:16-04:00
 author: 
 modified:
 categories: products
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Краткое описание категории тут."
 tags: []
 ads: false
 image:
