@@ -19,9 +19,9 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
+  <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
   <h2 class="post-title">Стабильнность</h2>
   <p class="post-excerpt">Хлебозавод работат с 29 декабря 1947 года и на протяжении длительного времени остается одним из крупнейших в хлебопекарной отрасли Республики Молдавия, имея репутацию устойчивого и стабильно функционирующего предприятия.</p>
-   <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -31,9 +31,9 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
+  <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
   <h2 class="post-title">Наша продукция</h2>
   <p class="post-excerpt">Хорошо известна как в Молдове, так и за ее пределами. В настоящее время предприятие выпускает 35 наименований хлебобулочных и более 40 наименований кондитерских изделий.</p>
-  <img src="http://mbit.ws/cahulpan//images/products/4.jpg" alt="teaser" itemprop="image">
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
