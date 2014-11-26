@@ -5,10 +5,10 @@
   excerpt: "Описание продукции."
   image: xx.jpg
 
-#- title: Media
-#  url: /media/
-#  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-#  image: 400x250.gif
+- title: О нас
+  url: #aboutus
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
 
 - title: Контакты
   url: /contacts/
