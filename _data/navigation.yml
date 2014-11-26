@@ -1,14 +1,14 @@
 # Site navigation links
 
-- title: Продукция
-  url: /products/
-  excerpt: "Описание продукции."
-  image: xx.jpg
-
 - title: О нас
   url: /#aboutus
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
+
+- title: Продукция
+  url: /products/
+  excerpt: "Описание продукции."
+  image: xx.jpg
 
 - title: Контакты
   url: /contacts/
