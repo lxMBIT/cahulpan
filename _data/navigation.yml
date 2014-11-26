@@ -3,7 +3,7 @@
 - title: Продукция
   url: /products/
   excerpt: "Описание продукции."
-  image: 400x250.gif
+  image: xx.jpg
 
 #- title: Media
 #  url: /media/
@@ -12,5 +12,5 @@
 
 - title: Контакты
   url: /contacts/
-  excerpt: "All contacts."
+  excerpt: "Контактная информация"
   image: 400x250.gif
