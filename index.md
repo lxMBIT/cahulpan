@@ -18,6 +18,7 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
+  <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
   <h2 class="post-title">Стабильнность</h2>
   <p class="post-excerpt">Хлебозавод работат с 29 декабря 1947 года и на протяжении длительного времени остается одним из крупнейших в хлебопекарной отрасли Республики Молдавия, имея репутацию устойчивого и стабильно функционирующего предприятия.</p>
 </div><!-- /.tile -->
