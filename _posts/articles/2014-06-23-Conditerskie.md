@@ -10,7 +10,7 @@ tags: []
 ads: false
 image:
   feature:
-  teaser:
+  teaser: products/1.png
   thumb:
 ---
 
