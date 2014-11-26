@@ -374,13 +374,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .hrquote {
 	display: block;
 	position: relative;
+	margin: 1rem 0;
 	&:before {
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
 		width: 100%;
 		height: 2px;
-		background: $border-color;
 	}
 }
