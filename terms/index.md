@@ -71,4 +71,4 @@ Just like this website, my Disclosure Policy is a work in progress. As the reven
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 

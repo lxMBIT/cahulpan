@@ -1,9 +1,9 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "cahulpan-jekyll",
   "version": "0.0.1",
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
+  "description": "A Jekyll site",
+  "author": "MBIT",
+  "homepage": "http://mbit.ws/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
