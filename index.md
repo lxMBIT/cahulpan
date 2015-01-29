@@ -13,7 +13,7 @@ published: true
 <div class="tiles">
 
 <div class="tile">
-  <img src="http://mbit.ws/cahulpan//images/products/1.jpg" alt="teaser" itemprop="image">
+  <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
   <h2 class="post-title">"S.A Combinatul de panificație Cahul"</h2>
   <p class="post-excerpt">Уникальное предприятие на юге Молдовы по производству хлеба, хлебобулочных, сдобных, бараночных, сухарных, мучных, кондитерских и макаронных изделий. </p>
 </div><!-- /.tile -->
