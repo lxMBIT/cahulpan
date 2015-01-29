@@ -8,7 +8,7 @@
 - title: Продукция
   url: /products/
   excerpt: "Описание продукции."
-  image: xx.jpg
+  image: /products/2.jpg
 
 - title: Контакты
   url: /contacts/
