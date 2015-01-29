@@ -14,7 +14,7 @@ sass:
   style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: rogue
+highlighter: pygments
 gems:
   - jekyll-sitemap
 
