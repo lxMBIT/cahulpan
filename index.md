@@ -31,7 +31,7 @@ published: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <img src="http://mbit.ws/cahulpan//images/products/2.jpg" alt="teaser" itemprop="image">
+  <img src="http://mbit.ws/cahulpan//images/products/5.jpg" alt="teaser" itemprop="image">
   <h2 class="post-title">Наша продукция</h2>
   <p class="post-excerpt">Хорошо известна как в Молдове, так и за ее пределами. В настоящее время предприятие выпускает 35 наименований хлебобулочных и более 40 наименований кондитерских изделий.</p>
 </div><!-- /.tile -->
