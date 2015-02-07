@@ -5,7 +5,7 @@ description: "Cahulpan"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://mbit.ws/cahulpan/
+url: http://mbit.ws/cahulpan
 
 # Jekyll configuration
 
@@ -25,8 +25,8 @@ owner:
   web: http://mbit.ws
   email: lxmbit@gmail.com
   twitter: 
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: "Just designer."
+  avatar: 
   google:
     plus: 
     ad-client: 
