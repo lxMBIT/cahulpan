@@ -3,10 +3,10 @@ layout: archive
 title: "Продукция"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Категории продуктов"
+excerpt: ""
 tags: []
 image:
-  feature: 1600x800.gif
+  feature: 
   teaser:
 ---
 
