@@ -6,7 +6,7 @@ modified:
 excerpt: "Категории продуктов"
 tags: []
 image:
-  feature:
+  feature: 1600x800.gif
   teaser:
 ---
 
