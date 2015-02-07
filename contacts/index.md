@@ -8,6 +8,7 @@ image:
   feature:
   teaser:
   thumb:
+toc: true
 share: false
 ads: false
 ---
@@ -17,6 +18,7 @@ ads: false
 ####Адрес:
 
 Республика Молдова, г. Кагул, улица Мира 20
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1388.507817242617!2d28.193303799999992!3d45.891000399999974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b65c8892670c0d%3A0x31d126693f8041d7!2zU3RyYWRhIFDEg2NpaSwgQ2FodWwgMzkwMSwg0JzQvtC70LTQvtCy0LA!5e0!3m2!1sru!2s!4v1416848683188" width="100%" height="300" frameborder="0" style="border:0"></iframe>
 
 
