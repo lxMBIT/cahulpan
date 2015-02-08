@@ -1,4 +1,0 @@
-cahulpan
-========
-
-Cahulpan project
