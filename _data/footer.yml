@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: О нас
+  url: /#aboutus
+
+- title: Продукция
+  url: /products/
+
+- title: Контакты
+  url: /contacts/
+
+#- title: Terms
+#  url: /terms/

@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: О нас
+  url: /#aboutus
+  excerpt: "Описание предприятия (главная)"
+  image: aboutus.jpg
+
+- title: Продукция
+  url: /products/
+  excerpt: "Описание продукции."
+  image: /products/2.jpg
+
+- title: Контакты
+  url: /contacts/
+  excerpt: "Контактная информация и адрес"
+  image: map-icon.jpg
